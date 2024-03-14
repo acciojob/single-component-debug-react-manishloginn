@@ -2,17 +2,6 @@ import React from 'react';
 
 const App = () => {
 
-    <>
-
-    </>
-
-    // const [count, setCount] = useState(0);
-
-    // function increment() {
-    //     setCount((prev) => prev + 1)
-    // }
-
-
     return (
         <>
             <div id="main">
@@ -22,5 +11,6 @@ const App = () => {
     )
 }
 
+export default App
 
 
